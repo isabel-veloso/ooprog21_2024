@@ -23,7 +23,7 @@ public class SammysRentalPrice{
         System.out.println("Hour: " + hours);
         System.out.println("Minutes: " + minutes);
         System.out.println("Hourly rate is " + hourlyRate + "per hour and $1 per addiotional minute.");
-        System.out.println("Your tatol rental cost is: $" + totalRate);
+        System.out.println("Your total rental cost is: $" + totalRate);
 
     }
 }
